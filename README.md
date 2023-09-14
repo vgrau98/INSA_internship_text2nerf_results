@@ -1,2 +1,4 @@
 Results from the text2nerf implementation
-file:///home/grau/Downloads/ezgif.com-optimize.gif
+
+![](https://github.com/INSA_internship_text2nerf_results
+/ezgif.com-optimize.gif)
